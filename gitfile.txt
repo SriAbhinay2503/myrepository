@@ -1,7 +1,6 @@
 This is my first Git file...
 
-commands
-----------
+commands :
 
 >> git init
 >> git add file
@@ -11,8 +10,9 @@ commands
 >> git Push -u origin main
 
 
-NEXT COMMANDS
---------------
+
+NEXT COMMANDS :
+
 >> git add file/.
 >> git commit -m "...."
 >> git push -u origin main
