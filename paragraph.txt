@@ -1,0 +1,66 @@
+Water pollution (or aquatic pollution) is the contamination of water bodies, usually as a result of human activities, so that it negatively affects its uses.[1]: 6  Water bodies include lakes, rivers, oceans, aquifers, reservoirs and groundwater. Water pollution results when contaminants mix with these water bodies. Contaminants can come from one of four main sources: sewage discharges, industrial activities, agricultural activities, and urban runoff including stormwater.[2] Water pollution is either surface water pollution or groundwater pollution. This form of pollution can lead to many problems, such as the degradation of aquatic ecosystems or spreading water-borne diseases when people use polluted water for drinking or irrigation.[3] Another problem is that water pollution reduces the ecosystem services (such as providing drinking water) that the water resource would otherwise provide.
+
+Sources of water pollution are either point sources or non-point sources. Point sources have one identifiable cause, such as a storm drain, a wastewater treatment plant or an oil spill. Non-point sources are more diffuse, such as agricultural runoff.[4] Pollution is the result of the cumulative effect over time. Pollution may take the form of toxic substances (e.g., oil, metals, plastics, pesticides, persistent organic pollutants, industrial waste products), stressful conditions (e.g., changes of pH, hypoxia or anoxia, increased temperatures, excessive turbidity, changes of salinity), or the introduction of pathogenic organisms. Contaminants may include organic and inorganic substances. A common cause of thermal pollution is the use of water as a coolant by power plants and industrial manufacturers.
+
+Control of water pollution requires appropriate infrastructure and management plans as well as legislation. Technology solutions can include improving sanitation, sewage treatment, industrial wastewater treatment, agricultural wastewater treatment, erosion control, sediment control and control of urban runoff (including stormwater management).
+
+Definition
+A practical definition of water pollution is: "Water pollution is the addition of substances or energy forms that directly or indirectly alter the nature of the water body in such a manner that negatively affects its legitimate uses".[1]: 6  Water is typically referred to as polluted when it is impaired by anthropogenic contaminants. Due to these contaminants, it either no longer supports a certain human use, such as drinking water, or undergoes a marked shift in its ability to support its biotic communities, such as fish.
+
+Contaminants
+Contaminants with an origin in sewage
+Further information: Waterborne diseases § Diseases by type of pathogen, and Sewage § Pathogens
+The following compounds can all reach water bodies via raw sewage or even treated sewage discharges:
+
+Various chemical compounds found in personal hygiene and cosmetic products.
+Disinfection by-products found in chemically disinfected drinking water (whilst these chemicals can be a pollutant in the water distribution network, they are fairly volatile and therefore not usually found in environmental waters).[5]
+Hormones (from animal husbandry and residue from human hormonal contraception methods) and synthetic materials such as phthalates that mimic hormones in their action. These can have adverse impacts even at very low concentrations on the natural biota and potentially on humans if the water is treated and utilized for drinking water.[6][7][8]
+insecticides and herbicides, often from agricultural runoff.
+If the water pollution stems from sewage (municipal wastewater), the main pollutants are: suspended solids, biodegradable organic matter, nutrients and pathogenic (disease-causing) organisms.[1]: 6 
+
+
+Poster to teach people in South Asia about human activities leading to the pollution of water sources
+Pollutants and their effects*
+Pollutant	Main representative parameter	Possible effect of the pollutant
+Suspended solids	Total suspended solids	
+Aesthetic problems
+Sludge deposits
+Pollutants adsorption
+Protection of pathogens
+Biodegradable organic matter	Biological oxygen demand (BOD)	
+Oxygen consumption
+Death of fish
+Septic conditions
+Nutrients	
+Nitrogen
+Phosphorus
+Excessive algae growth
+Toxicity to fish (ammonia)
+Illnesses in new-born infants (Blue baby syndrome from nitrate)
+Pollution of groundwater
+Pathogens	
+Coliforms, such as E. coli
+Helminth eggs[9]
+Waterborne diseases
+Non-biodegradable organic matter	
+Pesticides
+Some detergents
+Others
+Toxicity (various)
+Foam (detergents)
+Reduction of oxygen transfer (detergents)
+Non-biodegradability
+Bad odors (e.g.: phenols)
+Inorganic dissolved solids	
+Total dissolved solids
+Conductivity
+Excessive salinity – harm to plantations (irrigation)
+Toxicity to plants (some ions)
+Problems with soil permeability (sodium)
+* Sources of these pollutants are municipal and industrial wastewater, urban runoff, agricultural and pasture activities[1]: 7 
+Pathogens
+The major groups of pathogenic organisms are: (a) bacteria, (b) viruses, (c) protozoans and (d) helminths.[1]: 47  In practice, indicator organisms are used to investigate pathogenic pollution of water because the detection of pathogenic organisms in water sample is difficult and costly, because of their low concentrations. The indicators (bacterial indicator) of fecal contamination of water samples most commonly used are: total coliforms (TC), fecal coliforms (FC) or thermotolerant coliforms, E. coli.[1]: 47 
+
+Pathogens can produce waterborne diseases in either human or animal hosts.[10] Some microorganisms sometimes found in contaminated surface waters that have caused human health problems include: Burkholderia pseudomallei, Cryptosporidium parvum, Giardia lamblia, Salmonella, norovirus and other viruses, parasitic worms including the Schistosoma type.[11]
+
+The source of high levels of pathogens in water bodies can be from human feces (due to open defecation), sewage, blackwater, or manure that has found its way into the water body. The cause for this can be lack of sanitation procedures or poorly functioning on-site sanitation systems (septic tanks, pit latrines), sewage treatment plants without disinfection steps, sanitary sewer overflows and combined sewer overflows (CSOs)[12] during storm events and intensive agriculture (poorly managed livestock operations).
