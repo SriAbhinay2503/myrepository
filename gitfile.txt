@@ -1,17 +1,15 @@
-This is my first Git file...
 
-commands :
+This is my first git file...
 
->> git init
->> git add file
->> git commit -m
->> git remote add origin url
->> git branch -M main
->> git Push -u origin main
+Commands...
 
+>>. git init
+>>. git add file
+>>. git commit -m
+>>. git remote add origin url
+>>. git branch -M main
+>>. git Push -u origin main
 
-
-NEXT COMMANDS :
 
 >> git add file/.
 >> git commit -m "...."
